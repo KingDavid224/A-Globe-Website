@@ -220,6 +220,10 @@ hr{
     font-size: 0.93rem;
     color: #011f14;
 }
+.third-header-two:hover{
+    color: rgb(0, 0, 0);
+    background-color: #8dd3bb;
+}
 .grid-container{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
